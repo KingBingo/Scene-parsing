@@ -1,0 +1,5 @@
+model_checkpoint_path: "/users/TeamVideoSummarization/gsoc/segnet/SegNet-Tutorial/Models/Training/model.ckpt-3000"
+all_model_checkpoint_paths: "/users/TeamVideoSummarization/gsoc/segnet/SegNet-Tutorial/Models/Training/model.ckpt-0"
+all_model_checkpoint_paths: "/users/TeamVideoSummarization/gsoc/segnet/SegNet-Tutorial/Models/Training/model.ckpt-1000"
+all_model_checkpoint_paths: "/users/TeamVideoSummarization/gsoc/segnet/SegNet-Tutorial/Models/Training/model.ckpt-2000"
+all_model_checkpoint_paths: "/users/TeamVideoSummarization/gsoc/segnet/SegNet-Tutorial/Models/Training/model.ckpt-3000"

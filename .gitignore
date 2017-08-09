@@ -1,0 +1,4 @@
+Tensorflow-SegNet/.git_bak/*
+SegNet-Tutorial/.git_bak/*
+cat .gitignore 
+*.caffemodel
